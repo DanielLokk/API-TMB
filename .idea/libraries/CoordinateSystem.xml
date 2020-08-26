@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="CoordinateSystem">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/libs/JCoord-master/src/main/java/uk/me/jstott/jcoord/CoordinateSystem.java" />
+      <root url="file://$PROJECT_DIR$/libs/JCoord-master/src/main/java/uk/me/jstott/jcoord/ECEFRef.java" />
+      <root url="file://$PROJECT_DIR$/libs/JCoord-master/src/main/java/uk/me/jstott/jcoord/IrishRef.java" />
+      <root url="file://$PROJECT_DIR$/libs/JCoord-master/src/main/java/uk/me/jstott/jcoord/LatLng.java" />
+      <root url="file://$PROJECT_DIR$/libs/JCoord-master/src/main/java/uk/me/jstott/jcoord/MGRSRef.java" />
+      <root url="file://$PROJECT_DIR$/libs/JCoord-master/src/main/java/uk/me/jstott/jcoord/NotDefinedOnUTMGridException.java" />
+      <root url="file://$PROJECT_DIR$/libs/JCoord-master/src/main/java/uk/me/jstott/jcoord/OSRef.java" />
+      <root url="file://$PROJECT_DIR$/libs/JCoord-master/src/main/java/uk/me/jstott/jcoord/RefEll.java" />
+      <root url="file://$PROJECT_DIR$/libs/JCoord-master/src/main/java/uk/me/jstott/jcoord/Test.java" />
+      <root url="file://$PROJECT_DIR$/libs/JCoord-master/src/main/java/uk/me/jstott/jcoord/Util.java" />
+      <root url="file://$PROJECT_DIR$/libs/JCoord-master/src/main/java/uk/me/jstott/jcoord/UTMRef.java" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/libs/JCoord-master/src/main/java/uk/me/jstott/jcoord/CoordinateSystem.java" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/libs/JCoord-master/src/main/java/uk/me/jstott/jcoord/ECEFRef.java" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/libs/JCoord-master/src/main/java/uk/me/jstott/jcoord/IrishRef.java" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/libs/JCoord-master/src/main/java/uk/me/jstott/jcoord/LatLng.java" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/libs/JCoord-master/src/main/java/uk/me/jstott/jcoord/MGRSRef.java" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/libs/JCoord-master/src/main/java/uk/me/jstott/jcoord/NotDefinedOnUTMGridException.java" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/libs/JCoord-master/src/main/java/uk/me/jstott/jcoord/OSRef.java" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/libs/JCoord-master/src/main/java/uk/me/jstott/jcoord/RefEll.java" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/libs/JCoord-master/src/main/java/uk/me/jstott/jcoord/Test.java" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/libs/JCoord-master/src/main/java/uk/me/jstott/jcoord/Util.java" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/libs/JCoord-master/src/main/java/uk/me/jstott/jcoord/UTMRef.java" recursive="false" />
+  </library>
+</component>

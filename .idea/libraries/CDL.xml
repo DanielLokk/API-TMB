@@ -1,0 +1,31 @@
+<component name="libraryTable">
+  <library name="CDL">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/libs/JSON-java-master/CDL.java" />
+      <root url="file://$PROJECT_DIR$/libs/JSON-java-master/Cookie.java" />
+      <root url="file://$PROJECT_DIR$/libs/JSON-java-master/CookieList.java" />
+      <root url="file://$PROJECT_DIR$/libs/JSON-java-master/HTTP.java" />
+      <root url="file://$PROJECT_DIR$/libs/JSON-java-master/HTTPTokener.java" />
+      <root url="file://$PROJECT_DIR$/libs/JSON-java-master/JSONArray.java" />
+      <root url="file://$PROJECT_DIR$/libs/JSON-java-master/JSONException.java" />
+      <root url="file://$PROJECT_DIR$/libs/JSON-java-master/JSONML.java" />
+      <root url="file://$PROJECT_DIR$/libs/JSON-java-master/JSONObject.java" />
+      <root url="file://$PROJECT_DIR$/libs/JSON-java-master/JSONPointer.java" />
+      <root url="file://$PROJECT_DIR$/libs/JSON-java-master/JSONPointerException.java" />
+      <root url="file://$PROJECT_DIR$/libs/JSON-java-master/JSONPropertyIgnore.java" />
+      <root url="file://$PROJECT_DIR$/libs/JSON-java-master/JSONPropertyName.java" />
+      <root url="file://$PROJECT_DIR$/libs/JSON-java-master/JSONString.java" />
+      <root url="file://$PROJECT_DIR$/libs/JSON-java-master/JSONStringer.java" />
+      <root url="file://$PROJECT_DIR$/libs/JSON-java-master/JSONTokener.java" />
+      <root url="file://$PROJECT_DIR$/libs/JSON-java-master/JSONWriter.java" />
+      <root url="file://$PROJECT_DIR$/libs/JSON-java-master/LICENSE" />
+      <root url="file://$PROJECT_DIR$/libs/JSON-java-master/Property.java" />
+      <root url="file://$PROJECT_DIR$/libs/JSON-java-master/README.md" />
+      <root url="file://$PROJECT_DIR$/libs/JSON-java-master/XML.java" />
+      <root url="file://$PROJECT_DIR$/libs/JSON-java-master/XMLParserConfiguration.java" />
+      <root url="file://$PROJECT_DIR$/libs/JSON-java-master/XMLTokener.java" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

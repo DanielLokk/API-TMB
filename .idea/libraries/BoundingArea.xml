@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="BoundingArea">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/libs/geocalc-master/src/main/java/com/grum/geocalc/BoundingArea.java" />
+      <root url="file://$PROJECT_DIR$/libs/geocalc-master/src/main/java/com/grum/geocalc/Coordinate.java" />
+      <root url="file://$PROJECT_DIR$/libs/geocalc-master/src/main/java/com/grum/geocalc/DegreeCoordinate.java" />
+      <root url="file://$PROJECT_DIR$/libs/geocalc-master/src/main/java/com/grum/geocalc/DMSCoordinate.java" />
+      <root url="file://$PROJECT_DIR$/libs/geocalc-master/src/main/java/com/grum/geocalc/EarthCalc.java" />
+      <root url="file://$PROJECT_DIR$/libs/geocalc-master/src/main/java/com/grum/geocalc/GPSCoordinate.java" />
+      <root url="file://$PROJECT_DIR$/libs/geocalc-master/src/main/java/com/grum/geocalc/Point.java" />
+      <root url="file://$PROJECT_DIR$/libs/geocalc-master/src/main/java/com/grum/geocalc/RadianCoordinate.java" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/libs/geocalc-master/src/main/java/com/grum/geocalc/BoundingArea.java" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/libs/geocalc-master/src/main/java/com/grum/geocalc/Coordinate.java" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/libs/geocalc-master/src/main/java/com/grum/geocalc/DegreeCoordinate.java" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/libs/geocalc-master/src/main/java/com/grum/geocalc/DMSCoordinate.java" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/libs/geocalc-master/src/main/java/com/grum/geocalc/EarthCalc.java" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/libs/geocalc-master/src/main/java/com/grum/geocalc/GPSCoordinate.java" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/libs/geocalc-master/src/main/java/com/grum/geocalc/Point.java" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/libs/geocalc-master/src/main/java/com/grum/geocalc/RadianCoordinate.java" recursive="false" />
+  </library>
+</component>
